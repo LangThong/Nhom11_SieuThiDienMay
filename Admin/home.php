@@ -1,7 +1,7 @@
 <?php include 'view/header_admin.php'; ?>
 		<div class="right-col col-lg-10 col-md-9 col-sm-9 col-xs-12" style="background-color:#F7F7F7;color:#73879C;min-height:920px;">
 			<div class="tittle">
-				<h3>Dashboard</h3>
+				<h3>Dashboard</h3> 
 			</div>
 				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
 					<div class="mini-content">
