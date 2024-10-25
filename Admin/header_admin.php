@@ -36,7 +36,7 @@ session_start();
 					<?php 
 					if ($_SESSION["Loai"]==2) {
 					echo"<p>Xin chào,".$_SESSION['Username']. "</p>
-					<p><a href='logout.php'>Đăng Xuất</a></p>";
+					<button><a href='logout.php'>Đăng Xuất</a></button>";
 				}
 					else{
 						header("location:../index.php");
