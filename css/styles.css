@@ -1,0 +1,130 @@
+nav.navbar.navbar-default {
+    background: #252326;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+header a {
+    color: white !important;
+    font-size: 18px;
+}
+header a:hover{
+    color: #ff1c86 !important;
+}
+header .navbar-default .navbar-collapse{
+    border: none;
+}
+content p.title {
+    font-size: 18px;
+    line-height: 55px;
+    text-align: center;
+    background: black;
+    color: white;
+    margin: 0;
+}
+
+content .main-block.container {padding: 40px 15px;}
+
+content .categories-content img {
+    width: 100%;
+}
+
+content .categories-content {
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    border: 1px solid #eee;
+    text-decoration: none;
+}
+
+content a.categories-content:hover{
+    color: #ff1c86;
+}
+content p.categories-name{
+    font-weight: bold;
+}
+
+content p.count{
+    color: black !important;
+    font-size: initial;
+}
+content a.add-cart{
+    font-size: 20px;
+}
+content input[type="submit"] {
+    color: white;
+    background: #3ec37d;
+    border: 1px solid #3ec37d;
+    padding: 10px 20px;
+    border-radius: 21px;
+}
+content input[type="submit"]:hover {
+    background: #ff1c86;
+    border: 1px solid #ff1c86;
+}
+content a.submit{
+    color: white;
+    background: #3ec37d;
+    border: 1px solid #3ec37d;
+    padding: 10px 20px;
+    border-radius: 21px;
+}
+content a.submit{
+    background: #ff1c86;
+    border: 1px solid #ff1c86;
+}
+content span.discount{
+    color: #8e8d8d;
+    text-decoration: line-through;
+}
+
+content table th {
+    text-align: center;
+}
+content table td {
+    text-align: left;
+    vertical-align: middle !important;
+}
+content .img-mini-content img{
+    max-height: 100%;  
+    max-width: 100%; 
+    width: auto;
+    height: auto;
+    position: absolute;  
+    top: 0;  
+    bottom: 0;  
+    left: 0;  
+    right: 0;  
+    margin: auto;
+}
+
+footer{
+    padding-top: 50px;
+    background: #252326;
+    color: #c1c1c1;
+    margin-top: 20px;
+}
+footer p.title{
+    font-size: 18px;
+    color: white;
+}
+.login {
+    background: #ffffff;
+    top: 130px;
+    position: absolute;
+    padding: 50px;
+    border: 2px solid #E6E9ED;
+    border-radius: 25px;
+}
+@media (min-width: 768px) and (max-width: 991px)  {
+    header a{
+        padding-right: 4px !important;
+        padding-left: 4px !important;
+    }
+}
+@media (max-width: 767px){
+    content .main-block.container img{
+        width: initial;
+    }
+}
