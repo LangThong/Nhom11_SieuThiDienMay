@@ -35,7 +35,7 @@
 			<?php } ?>
 		</div>
 		<div class="main-block container">
-			<p class="title col-lg-12 col-md-12 col-sm-12 col-xs-12">CÁC SẢN PHẨM MỚI NHẤT</p>
+			<p class="title col-lg-12 col-md-12 col-sm-12 col-xs-12" >CÁC SẢN PHẨM MỚI NHẤT</p>
 			<?php foreach ($products as $product) { ?>
 			<div class="categories-content col-lg-3 col-md-3 col-sm-6 col-xs-12">
 				<div class="img-mini-content col-lg-3 col-md-6 col-sm-6 col-xs-12" style="width:100%;min-height: 250px;float:left;">
