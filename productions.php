@@ -5,7 +5,7 @@
 				<table class="table table-hover">
 					<thead>
 						<tr>
-						    <th>Nhóm sản phẩm</th>
+						    <th style="color: blue;">Nhóm sản phẩm</th>
 						</tr>
 					</thead>
 					<?php foreach ($categories as $category) { ?>
