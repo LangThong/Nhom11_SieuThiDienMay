@@ -1,0 +1,47 @@
+[33mcommit 752b423a9c04b932018923c27acf2488540789af[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 511a1db f2ecb4f
+Author: TranThanhThuan <117188311+LangThong@users.noreply.github.com>
+Date:   Sat Oct 26 01:34:27 2024 +0700
+
+    Merge pull request #1 from LangThong/feature/pages
+    
+    Feature/pages
+
+[33mcommit 511a1db84cada7d4a7d2e357b39a900e563f95eb[m
+Merge: 77c3e6a fddd4b3
+Author: TranThanhThuan <117188311+LangThong@users.noreply.github.com>
+Date:   Sat Oct 26 01:34:01 2024 +0700
+
+    Merge pull request #2 from LangThong/feature/layouts
+    
+    Feature/layouts
+
+[33mcommit f2ecb4fa3c881f712ba9062f9955665badbafd8f[m[33m ([m[1;31morigin/feature/pages[m[33m)[m
+Author: Giang <trinhgianhsoi@gmail.com>
+Date:   Sat Oct 26 00:46:10 2024 +0700
+
+    up page admin
+
+[33mcommit fddd4b3ce5fb0b16a9933e235da61f26eb0bd829[m[33m ([m[1;31morigin/giang[m[33m, [m[1;31morigin/feature/layouts[m[33m)[m
+Author: Giang <trinhgianhsoi@gmail.com>
+Date:   Sat Oct 26 00:05:41 2024 +0700
+
+    up layout admin
+
+[33mcommit 0c57225a3eaf9c363c256feef60de2858e1fa558[m
+Author: Giang <trinhgianhsoi@gmail.com>
+Date:   Fri Oct 25 23:36:41 2024 +0700
+
+    up layout login va register
+
+[33mcommit 77c3e6adb0a7def3070463a93a703a94a8c63b30[m
+Author: TranThanhThuan <117188311+LangThong@users.noreply.github.com>
+Date:   Fri Oct 25 22:53:15 2024 +0700
+
+    Update README.md
+
+[33mcommit 0a7ca484036a2ef33cf6d8d50e4f46b8db67f58a[m
+Author: LangThong <thanhthuantanan@gmail.com>
+Date:   Fri Oct 25 22:50:18 2024 +0700
+
+    first commit
