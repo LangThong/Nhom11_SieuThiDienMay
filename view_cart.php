@@ -85,7 +85,7 @@
 				            $str = implode(",", $item);
 				            $sql = "select * from sanpham where IdSP in ($str)";
 				            $query = $db->query($sql);
-				            $total = "";
+				            $total = 0;
 				            foreach ($query as $value) {
 				        
 					 ?>
