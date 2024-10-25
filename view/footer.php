@@ -16,7 +16,7 @@
 				</div>
 				<div class="mini-footer col-lg-4 col-md-4 col-sm-4 col-xs-4">
 					<p class="title">Thông Tin Liên Hệ</p>
-					<p>Địa chỉ:Hutech Khu E TP.Thủ Đức<br><br>SĐT:0855003466</p>
+					<p>Địa chỉ:Hutech Khu E TP.Thủ Đức<br><br>SĐT:0912498386</p>
 				</div>
 			</div>
 		</div>
